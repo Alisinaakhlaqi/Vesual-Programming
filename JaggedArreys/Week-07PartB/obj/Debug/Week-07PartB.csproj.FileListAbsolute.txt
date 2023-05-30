@@ -1,0 +1,7 @@
+D:\Kateb\VP\JaggedArreys\Week-07PartB\bin\Debug\Week-07PartB.exe.config
+D:\Kateb\VP\JaggedArreys\Week-07PartB\bin\Debug\Week-07PartB.exe
+D:\Kateb\VP\JaggedArreys\Week-07PartB\bin\Debug\Week-07PartB.pdb
+D:\Kateb\VP\JaggedArreys\Week-07PartB\obj\Debug\Week-07PartB.csproj.CoreCompileInputs.cache
+D:\Kateb\VP\JaggedArreys\Week-07PartB\obj\Debug\Week-07PartB.exe
+D:\Kateb\VP\JaggedArreys\Week-07PartB\obj\Debug\Week-07PartB.pdb
+D:\Kateb\VP\JaggedArreys\Week-07PartB\obj\Debug\Week-07PartB.csprojAssemblyReference.cache
