@@ -1,0 +1,7 @@
+D:\Kateb\VP\week-11\transcript\obj\Debug\transcript.csprojAssemblyReference.cache
+D:\Kateb\VP\week-11\transcript\obj\Debug\transcript.csproj.CoreCompileInputs.cache
+D:\Kateb\VP\week-11\transcript\bin\Debug\transcript.exe.config
+D:\Kateb\VP\week-11\transcript\bin\Debug\transcript.exe
+D:\Kateb\VP\week-11\transcript\bin\Debug\transcript.pdb
+D:\Kateb\VP\week-11\transcript\obj\Debug\transcript.exe
+D:\Kateb\VP\week-11\transcript\obj\Debug\transcript.pdb
