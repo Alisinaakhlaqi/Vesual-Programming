@@ -1,0 +1,7 @@
+D:\Kateb\VP\debuging\debuging\bin\Debug\debuging.exe.config
+D:\Kateb\VP\debuging\debuging\bin\Debug\debuging.exe
+D:\Kateb\VP\debuging\debuging\bin\Debug\debuging.pdb
+D:\Kateb\VP\debuging\debuging\obj\Debug\debuging.csprojAssemblyReference.cache
+D:\Kateb\VP\debuging\debuging\obj\Debug\debuging.csproj.CoreCompileInputs.cache
+D:\Kateb\VP\debuging\debuging\obj\Debug\debuging.exe
+D:\Kateb\VP\debuging\debuging\obj\Debug\debuging.pdb

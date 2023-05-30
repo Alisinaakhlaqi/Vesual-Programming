@@ -1,0 +1,7 @@
+D:\Kateb\VP\debuging\second\bin\Debug\second.exe.config
+D:\Kateb\VP\debuging\second\bin\Debug\second.exe
+D:\Kateb\VP\debuging\second\bin\Debug\second.pdb
+D:\Kateb\VP\debuging\second\obj\Debug\second.csprojAssemblyReference.cache
+D:\Kateb\VP\debuging\second\obj\Debug\second.csproj.CoreCompileInputs.cache
+D:\Kateb\VP\debuging\second\obj\Debug\second.exe
+D:\Kateb\VP\debuging\second\obj\Debug\second.pdb
