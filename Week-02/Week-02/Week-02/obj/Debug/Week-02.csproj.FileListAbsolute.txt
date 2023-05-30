@@ -1,0 +1,7 @@
+D:\Kateb\VP\Week-02\Week-02\Week-02\obj\Debug\Week-02.csprojAssemblyReference.cache
+D:\Kateb\VP\Week-02\Week-02\Week-02\obj\Debug\Week-02.csproj.CoreCompileInputs.cache
+D:\Kateb\VP\Week-02\Week-02\Week-02\bin\Debug\Week-02.exe.config
+D:\Kateb\VP\Week-02\Week-02\Week-02\bin\Debug\Week-02.exe
+D:\Kateb\VP\Week-02\Week-02\Week-02\bin\Debug\Week-02.pdb
+D:\Kateb\VP\Week-02\Week-02\Week-02\obj\Debug\Week-02.exe
+D:\Kateb\VP\Week-02\Week-02\Week-02\obj\Debug\Week-02.pdb
