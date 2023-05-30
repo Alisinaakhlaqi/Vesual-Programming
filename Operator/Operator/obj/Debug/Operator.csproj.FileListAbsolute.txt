@@ -1,0 +1,7 @@
+C:\Users\Apple\source\repos\Operator\Operator\bin\Debug\Operator.exe.config
+C:\Users\Apple\source\repos\Operator\Operator\bin\Debug\Operator.exe
+C:\Users\Apple\source\repos\Operator\Operator\bin\Debug\Operator.pdb
+C:\Users\Apple\source\repos\Operator\Operator\obj\Debug\Operator.csprojAssemblyReference.cache
+C:\Users\Apple\source\repos\Operator\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+C:\Users\Apple\source\repos\Operator\Operator\obj\Debug\Operator.exe
+C:\Users\Apple\source\repos\Operator\Operator\obj\Debug\Operator.pdb

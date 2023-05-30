@@ -1,0 +1,7 @@
+C:\Users\Apple\source\repos\Operator\NameSpace\bin\Debug\NameSpace.exe.config
+C:\Users\Apple\source\repos\Operator\NameSpace\bin\Debug\NameSpace.exe
+C:\Users\Apple\source\repos\Operator\NameSpace\bin\Debug\NameSpace.pdb
+C:\Users\Apple\source\repos\Operator\NameSpace\obj\Debug\NameSpace1.csproj.CoreCompileInputs.cache
+C:\Users\Apple\source\repos\Operator\NameSpace\obj\Debug\NameSpace.exe
+C:\Users\Apple\source\repos\Operator\NameSpace\obj\Debug\NameSpace.pdb
+C:\Users\Apple\source\repos\Operator\NameSpace\obj\Debug\NameSpace1.csprojAssemblyReference.cache

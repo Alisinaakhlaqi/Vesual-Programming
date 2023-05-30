@@ -1,0 +1,7 @@
+C:\Users\Apple\source\repos\Operator\LogicOpertor\bin\Debug\LogicOpertor.exe.config
+C:\Users\Apple\source\repos\Operator\LogicOpertor\bin\Debug\LogicOpertor.exe
+C:\Users\Apple\source\repos\Operator\LogicOpertor\bin\Debug\LogicOpertor.pdb
+C:\Users\Apple\source\repos\Operator\LogicOpertor\obj\Debug\LogicOpertor.csprojAssemblyReference.cache
+C:\Users\Apple\source\repos\Operator\LogicOpertor\obj\Debug\LogicOpertor.csproj.CoreCompileInputs.cache
+C:\Users\Apple\source\repos\Operator\LogicOpertor\obj\Debug\LogicOpertor.exe
+C:\Users\Apple\source\repos\Operator\LogicOpertor\obj\Debug\LogicOpertor.pdb

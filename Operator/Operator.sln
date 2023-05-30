@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator", "Operator\Operator.csproj", "{F668776C-CA30-4262-9591-C8444D7BCA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSpace1", "NameSpace\NameSpace1.csproj", "{B2CBE206-DD9B-4B58-B01E-C3F661921CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicOpertor", "LogicOpertor\LogicOpertor.csproj", "{9C698792-A6E7-47F7-9EE5-563E7B89E296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F668776C-CA30-4262-9591-C8444D7BCA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F668776C-CA30-4262-9591-C8444D7BCA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F668776C-CA30-4262-9591-C8444D7BCA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F668776C-CA30-4262-9591-C8444D7BCA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CBE206-DD9B-4B58-B01E-C3F661921CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CBE206-DD9B-4B58-B01E-C3F661921CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CBE206-DD9B-4B58-B01E-C3F661921CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CBE206-DD9B-4B58-B01E-C3F661921CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C698792-A6E7-47F7-9EE5-563E7B89E296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C698792-A6E7-47F7-9EE5-563E7B89E296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C698792-A6E7-47F7-9EE5-563E7B89E296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C698792-A6E7-47F7-9EE5-563E7B89E296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D3535CD-206F-4942-8A15-77494C8CF171}
+	EndGlobalSection
+EndGlobal
