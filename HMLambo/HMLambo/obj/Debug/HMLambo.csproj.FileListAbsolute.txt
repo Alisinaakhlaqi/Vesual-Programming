@@ -1,0 +1,7 @@
+D:\Kateb\VP\HMLambo\HMLambo\bin\Debug\HMLambo.exe.config
+D:\Kateb\VP\HMLambo\HMLambo\bin\Debug\HMLambo.exe
+D:\Kateb\VP\HMLambo\HMLambo\bin\Debug\HMLambo.pdb
+D:\Kateb\VP\HMLambo\HMLambo\obj\Debug\HMLambo.csprojAssemblyReference.cache
+D:\Kateb\VP\HMLambo\HMLambo\obj\Debug\HMLambo.csproj.CoreCompileInputs.cache
+D:\Kateb\VP\HMLambo\HMLambo\obj\Debug\HMLambo.exe
+D:\Kateb\VP\HMLambo\HMLambo\obj\Debug\HMLambo.pdb
