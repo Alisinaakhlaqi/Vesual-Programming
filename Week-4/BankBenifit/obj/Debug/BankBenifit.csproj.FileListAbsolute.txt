@@ -1,0 +1,6 @@
+C:\Users\Apple\source\repos\Week-5\BankBenifit\bin\Debug\BankBenifit.exe.config
+C:\Users\Apple\source\repos\Week-5\BankBenifit\bin\Debug\BankBenifit.exe
+C:\Users\Apple\source\repos\Week-5\BankBenifit\bin\Debug\BankBenifit.pdb
+C:\Users\Apple\source\repos\Week-5\BankBenifit\obj\Debug\BankBenifit.csproj.CoreCompileInputs.cache
+C:\Users\Apple\source\repos\Week-5\BankBenifit\obj\Debug\BankBenifit.exe
+C:\Users\Apple\source\repos\Week-5\BankBenifit\obj\Debug\BankBenifit.pdb
