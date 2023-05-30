@@ -1,0 +1,14 @@
+C:\Users\Apple\source\repos\Week-03\Cercle\bin\Debug\Cercle.exe.config
+C:\Users\Apple\source\repos\Week-03\Cercle\bin\Debug\Cercle.exe
+C:\Users\Apple\source\repos\Week-03\Cercle\bin\Debug\Cercle.pdb
+C:\Users\Apple\source\repos\Week-03\Cercle\obj\Debug\Cercle.csprojAssemblyReference.cache
+C:\Users\Apple\source\repos\Week-03\Cercle\obj\Debug\Cercle.csproj.CoreCompileInputs.cache
+C:\Users\Apple\source\repos\Week-03\Cercle\obj\Debug\Cercle.exe
+C:\Users\Apple\source\repos\Week-03\Cercle\obj\Debug\Cercle.pdb
+D:\Kateb\VP\Week-03\Cercle\bin\Debug\Cercle.exe.config
+D:\Kateb\VP\Week-03\Cercle\bin\Debug\Cercle.exe
+D:\Kateb\VP\Week-03\Cercle\bin\Debug\Cercle.pdb
+D:\Kateb\VP\Week-03\Cercle\obj\Debug\Cercle.csprojAssemblyReference.cache
+D:\Kateb\VP\Week-03\Cercle\obj\Debug\Cercle.csproj.CoreCompileInputs.cache
+D:\Kateb\VP\Week-03\Cercle\obj\Debug\Cercle.exe
+D:\Kateb\VP\Week-03\Cercle\obj\Debug\Cercle.pdb
